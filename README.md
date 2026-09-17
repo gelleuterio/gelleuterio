@@ -23,6 +23,7 @@ Aqui no meu GitHub vou colocar alguns dos projetos e atividades que faço durant
 
 **SESI-SENAI CIC**
 Ensino Médio Técnico em Desenvolvimento de Sistemas
+
 Conclusão prevista: 2027
 
 ## Contato
